@@ -80,7 +80,7 @@ function draw() {
 ```p5.js
 var cols, rows;
 var scl = 20;
-var w = 1000;
+var w = 1000; 
 var h = 1000;
 
 var flying = 0;
@@ -95,9 +95,9 @@ function setup() {
   camera = createCamera();
 
   for (var x = 0; x < cols; x++) {
-    terrain[x] = [];
+    terrain[x] = []; //1D
     for (var y = 0; y < rows; y++) {
-      terrain[x][y] = 0; //specify a default value for now
+      terrain[x][y] = 0; //specify a default value for now //2D
     }
   }
   
