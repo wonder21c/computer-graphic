@@ -1,7 +1,7 @@
 ##	three.js로 3D 큐브 만들기(조명, 재질) 및 회전
 ### 팀장 : 손정우      팀원 : 박준범,김태훈
 
-![image](https://github.com/wonder21c/computer-graphic/assets/50861700/31133547-2220-479c-aa31-1d39c27f76e4)
+![image](https://github.com/wonder21c/computer-graphic/assets/50861700/dbe6e7af-eb20-4d88-9175-5b0518f4ce9b)
 
 ### 소감
 Visual Studio Code를 이용하여 큐브를 생성하고 임의로 회전하는 코드를 배웠습니다. 
